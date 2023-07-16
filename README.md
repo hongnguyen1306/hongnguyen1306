@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/hồng nguyễn](https://www.linkedin.com/in/h%E1%BB%93ng-nguy%E1%BB%85n-794737231/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hồng nguyễn" height="30" width="40" /></a>
-<a href="[https://fb.com/hồng nguyễn](https://www.facebook.com/honghuy.nguyen.96/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hồng nguyễn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/h%E1%BB%93ng-nguy%E1%BB%85n-794737231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hồng nguyễn" height="30" width="40" /></a>
+<a href="https://www.facebook.com/honghuy.nguyen.96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hồng nguyễn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
